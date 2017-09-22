@@ -5,7 +5,7 @@ TV-Pipy-Remote v0.9
 German:
 Unsere Kursmonitore , basierend auf einem einfach LCD (32") TV + Raspberry Pi 3, 
 zeigen per Chromium unsere Tageskurse in der jeweiligen Geschäftstelle an.
-Dieses selbst entwickelte, KIRRA genannte, Programm basiert auf PHP und MSSQLSRV.
+Dieses selbst entwickelte, KIRAA genannte, Programm basiert auf PHP und MSSQLSRV.
 
 Um die Screens zeitlich steuern zu können (auch bei seltenen Wochenend-Kursen und bei Tagen ohne Kurse, aber mit Werbung),
 lesen wir die jeweiligen Geschäftsstellen-Kurse live per PHP+XML aus und 
